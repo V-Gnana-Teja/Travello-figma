@@ -12,8 +12,6 @@ const Booking = () => {
   return (
     <div className="mt-12 flex flex-col md:flex-row p-16">
       <div className="flex-1 mr-8">
-        {" "}
-        {/* Existing content */}
         <div>
           <h3 className="text-gray-400 font-semibold"> Easy and Fast</h3>
           <h1 className="mt-4 font-volkhov font-bold text-3xl md:text-4xl lg:text-5xl">
